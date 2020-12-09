@@ -25,5 +25,5 @@ console.log('suma', age_koder / 5)
 console.log('suma', age_koder - 5) */
 let weight_koder = prompt('¿cual es tu peso?')
 console.log(weight_koder)
-let moon_weight = ((weight_koder/9.81)*1.622)
-alert("tu peso en la luna es "+ moon_weight)
+let moon_weight = ((weight_koder / 9.81) * 1.622)
+alert("tu peso en la luna es " + moon_weight + " kg")
